@@ -229,5 +229,6 @@ print("Total Distance={0} Kilometers".format(goal_state_path.path_cost))
 
 ## SOLUTION JUSTIFICATION:
 Route follow the minimum distance between locations using breadth-first search.
+            
 ## RESULT:
 Thus the program developed for finding route with drawn map and finding its distance covered.
